@@ -1,0 +1,5 @@
+name: NoCreeperExplosion
+main: fr.doritanh.plugins.noCreeperExplosion.NoCreeperExplosion
+version: 1.0
+api-version: 1.16
+commands:
